@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 pourquoi ceci est la base
+=======
+ceci est la base
+ajoute des oeuf wesh
+>>>>>>> avecingredients
